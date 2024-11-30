@@ -1,1 +1,1 @@
-simple madlibs game in java for cs141
+simple madlibs game for cs141
